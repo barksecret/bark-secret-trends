@@ -1,0 +1,5 @@
+{
+  "name": "Bark Secret Trends",
+  "description": "A lightweight web app that fetches and displays real-time content ideas for herbal remedies, natural health, and gardening from live RSS feeds.",
+  "requestFramePermissions": []
+}
